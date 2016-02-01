@@ -18,6 +18,8 @@ Campus maps using open source software
 
 1. [Vassar College](http://info.vassar.edu/visit/maps/): OpenLayers + ExtJS
 
+1. [Yale University](http://map.yale.edu/place/building/WTS): Mapbox + OSM
+
 
 ## Google Maps
 
